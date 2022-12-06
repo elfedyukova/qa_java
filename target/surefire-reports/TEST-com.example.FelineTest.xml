@@ -59,7 +59,7 @@
     <property name="socksNonProxyHosts" value="local|*.local|169.254/16|*.169.254/16"/>
     <property name="ftp.nonProxyHosts" value="local|*.local|169.254/16|*.169.254/16"/>
   </properties>
-  <testcase classname="com.example.FelineTest" name="GetKittensTest" time="0"/>
   <testcase classname="com.example.FelineTest" name="getFamily" time="0"/>
+  <testcase classname="com.example.FelineTest" name="getKittensTest" time="0"/>
   <testcase classname="com.example.FelineTest" name="eatMeatTest" time="0"/>
 </testsuite>
